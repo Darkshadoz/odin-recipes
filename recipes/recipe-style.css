@@ -1,0 +1,40 @@
+html {
+    border: solid red 20px;
+    padding: 2%;
+}
+
+body {
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    zoom: 120%;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: green;
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
+    padding: 20px;
+}
+
+li {
+    text-align: left;
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    border: solid white 5px;
+}

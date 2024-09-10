@@ -1,0 +1,29 @@
+ html {
+    border:solid red 20px;
+    padding:20%;
+ }
+ 
+ body {
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+ }
+ 
+ h1 {
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ li {
+    text-align: center;
+    padding-top: 40px;
+    color: green;
+    font-size: 30px;
+    list-style-type: none;
+ }
+
+ ul {
+    margin: auto;
+    width: 60%;
+ }
